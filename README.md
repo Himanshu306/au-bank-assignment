@@ -52,3 +52,17 @@ au-bank/
 ├── start.sh                   # Script to start both servers
 └── README.md
 ```
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/033c776a-da9a-40cc-bffd-09bd593e4c66" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f54ddcfb-4c2f-4b39-a186-695d1829f1b4" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/4ebacd95-665a-413a-b163-0df71355371a" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/4f46952d-cd5a-4814-8a9e-83de348fde40" />
+
+
+
+
+
+
+
+
+
